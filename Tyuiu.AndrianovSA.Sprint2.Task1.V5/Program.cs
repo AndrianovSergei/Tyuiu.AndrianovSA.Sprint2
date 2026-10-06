@@ -15,13 +15,13 @@ namespace Tyuiu.AndrianovSA.Sprint2.Task0.V5
 
             bool[] res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.Title = "Спринт #2 | Выполнил: Андрианов С. А. | ИИПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Андрианов С. А. | ИИПб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* СПРИНТ #2                                                               *");
             Console.WriteLine("* Тема: Логические операции                                              *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
-            Console.WriteLine("* Выполнил: Андрианов Сергей Александрович | ИИПб-24-1                    *");
+            Console.WriteLine("* Выполнил: Андрианов Сергей Александрович | ИИПб-26-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу из логических операций, которая вернет логическую    *");
