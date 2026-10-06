@@ -2,18 +2,18 @@
 
 namespace Tyuiu.AndrianovSA.Sprint2.Task0.V5.Lib
 {
-    public class DataService : ISprint2Task0V5
+    public class DataService : ISprint2Task1V5
     {
-        public bool[] GetCompareOperations(int x, int y)
+        public bool[] GetLogicOperations(int a, int b, int c, int d)
         {
             bool[] res = new bool[6];
 
-            res[0] = x + 9 == y; // True  (154 + 9 == 163)
-            res[1] = x != x;     // False (154 != 154)
-            res[2] = y < x;      // False (163 < 154)
-            res[3] = x > y;      // False (154 > 163)
-            res[4] = x <= y;     // True  (154 <= 163)
-            res[5] = x >= y;     // False (154 >= 163)
+            res[0] = (a > b) | (c < d);     // True  (False | True)
+            res[1] = (a > b) & (c < d);     // False (False & True)
+            res[2] = (a > b) || (c > d);    // False (False || False)
+            res[3] = (a < b) && (c > d);    // False (True && False)
+            res[4] = !(a > b);              // True  (!False)
+            res[5] = (a < b) ^ (c < d);     // False (True ^ True)
 
             return res;
         }

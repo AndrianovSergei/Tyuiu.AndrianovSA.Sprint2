@@ -8,26 +8,30 @@ namespace Tyuiu.AndrianovSA.Sprint2.Task0.V5
         {
             DataService ds = new DataService();
 
-            int x = 154;
-            int y = 163;
+            int a = 154;
+            int b = 163;
+            int c = 134;
+            int d = 137;
 
-            bool[] res = ds.GetCompareOperations(x, y);
+            bool[] res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.Title = "Спринт #2 | Выполнил: Андрианов С. А. | ИИПб-26-1";
+            Console.Title = "Спринт #2 | Выполнил: Андрианов С. А. | ИИПб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* СПРИНТ #2                                                               *");
-            Console.WriteLine("* Тема: Операции сравнения                                                *");
-            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Тема: Логические операции                                              *");
+            Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
-            Console.WriteLine("* Выполнил: Андрианов Сергей Александрович | ИИПб-26-1                    *");
+            Console.WriteLine("* Выполнил: Андрианов Сергей Александрович | ИИПб-24-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу из операций сравнения, которая вернет логическую     *");
+            Console.WriteLine("* Написать программу из логических операций, которая вернет логическую    *");
             Console.WriteLine("* последовательность: (True, False, False, False, True, False)             *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
-            Console.WriteLine($"* x = {x}                                                                 *");
-            Console.WriteLine($"* y = {y}                                                                 *");
+            Console.WriteLine($"* a = {a}                                                                 *");
+            Console.WriteLine($"* b = {b}                                                                 *");
+            Console.WriteLine($"* c = {c}                                                                 *");
+            Console.WriteLine($"* d = {d}                                                                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
