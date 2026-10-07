@@ -1,6 +1,6 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint2;
 
-namespace Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib
+namespace Tyuiu.AndrianovSA.Sprint2.Task1.V9.Lib
 {
     public class DataService : ISprint2Task3V9
     {

@@ -1,4 +1,4 @@
-﻿using Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib;
+﻿using Tyuiu.AndrianovSA.Sprint2.Task1.V9.Lib;
 
 namespace Tyuiu.AndrianovSA.Sprint2.Task1.V9
 {
@@ -12,7 +12,7 @@ namespace Tyuiu.AndrianovSA.Sprint2.Task1.V9
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* СПРИНТ #2                                                               *");
             Console.WriteLine("* Тема: Вложенные операторы if-else                                       *");
-            Console.WriteLine("* Задание #3                                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #9                                                              *");
             Console.WriteLine("* Выполнил: Андрианов Сергей Александрович | ИИПб-26-1                    *");
             Console.WriteLine("***************************************************************************");

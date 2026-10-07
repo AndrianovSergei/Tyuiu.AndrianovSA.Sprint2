@@ -1,6 +1,6 @@
-﻿using Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib;
+﻿using Tyuiu.AndrianovSA.Sprint2.Task1.V9.Lib;
 
-namespace Tyuiu.AndrianovSA.Sprint2.Task3.V9.Test
+namespace Tyuiu.AndrianovSA.Sprint2.Task1.V9.Test
 {
     [TestClass]
     public class DataServiceTest
