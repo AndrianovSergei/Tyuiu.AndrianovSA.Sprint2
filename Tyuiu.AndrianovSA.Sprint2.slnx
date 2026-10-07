@@ -15,8 +15,8 @@
     <Project Path="Tyuiu.AndrianovSA.Sprint2.Task2.V26/Tyuiu.AndrianovSA.Sprint2.Task2.V26.csproj" Id="c6eb45b0-22a3-4d1b-942c-b3df20a605ec" />
   </Folder>
   <Folder Name="/Task3/">
-    <Project Path="Tyuiu.andrianovSA.Sprint2.Task3.V9.Lib/Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib.csproj" Id="95cf286e-8f7a-4f6d-8efd-cff0c128915a" />
-    <Project Path="Tyuiu.andrianovSA.Sprint2.Task3.V9.Test/Tyuiu.AndrianovSA.Sprint2.Task3.V9.Test.csproj" Id="a5003f90-d65b-4ce9-b2e1-ff1c6b664334" />
-    <Project Path="Tyuiu.andrianovSA.Sprint2.Task3.V9/Tyuiu.AndrianovSA.Sprint2.Task3.V9.csproj" Id="2fc76cae-0145-4533-8a52-c88d05c4f107" />
+    <Project Path="Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib/Tyuiu.AndrianovSA.Sprint2.Task3.V9.Lib.csproj" Id="ba62dd8c-f4a7-4504-80d8-832678645864" />
+    <Project Path="Tyuiu.AndrianovSA.Sprint2.Task3.V9.Test/Tyuiu.AndrianovSA.Sprint2.Task3.V9.Test.csproj" Id="d664a789-0111-4e80-adb9-a79e585c8a25" />
+    <Project Path="Tyuiu.AndrianovSA.Sprint2.Task3.V9/Tyuiu.AndrianovSA.Sprint2.Task3.V9.csproj" Id="8b267e07-b802-42c8-8252-e9c46cca7604" />
   </Folder>
 </Solution>
