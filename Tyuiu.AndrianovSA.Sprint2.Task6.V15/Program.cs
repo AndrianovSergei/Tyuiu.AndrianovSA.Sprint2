@@ -37,4 +37,4 @@ namespace Tyuiu.AndrianovSA.Sprint2.Task6.V15
             Console.ReadKey();
         }
     }
-}4
+}
